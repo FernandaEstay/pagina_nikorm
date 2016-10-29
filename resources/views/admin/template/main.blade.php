@@ -127,14 +127,14 @@
                         <div class="media-left"><span class="icon-lightbulb"></span></div>
                         <div class="media-body">
                             <h3>Electricidad</h3>
-                            <p>Industrial y domiciliaria, mantención y reparación de tableros y proyectos de ilumnición de disntitos tipos: led, incandecente, etc.</p>
+                            <p>Industrial y domiciliaria, mantención y reparación de tableros y proyectos de iluminación de distintos tipos: led, incandecente, etc.</p>
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="media-left"><span class="icon-mobile"></span></div>
                         <div class="media-body">
                             <h3>Seguridad</h3>
-                            <p>Sitófono, video porteros, camaras de circuitos cerrados usable en forma remota, cercos eléctricos, concertina, puntos de red y voz.</p>
+                            <p>Sitófono, video porteros, cámaras de circuitos cerrados usable en forma remota, cercos eléctricos, concertina, puntos de red y voz.</p>
                         </div>
 
                     </div>
@@ -186,103 +186,93 @@
             <p>La solución para ti</p>
             <div class="row">
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a class="portfolio-box" href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/1.jpg')}}" data-lightbox="image-1" data-title="Your caption">
+                    <a class="portfolio-box" href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/1.jpg')}}" data-lightbox="image-1" data-title="Fabricacion de grada e instalación de porcelanato">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/1.jpg')}}" class="img-responsive" alt="1">
                          <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Otros
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Grada y Porcelanato
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/2.jpg')}}" class="portfolio-box" data-lightbox="image-2" data-title="Your caption">
+                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/2.jpg')}}" class="portfolio-box" data-lightbox="image-2" data-title="Fabricación de muebles a medida">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/2.jpg')}}" class="img-responsive" alt="2">
-                        <!--
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Carpintería
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Muebles
                                 </div>
                             </div>
                         </div>
-                        -->
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/3.jpg')}}" class="portfolio-box" data-lightbox="image-3" data-title="Your caption">
+                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/3.jpg')}}" class="portfolio-box" data-lightbox="image-3" data-title="Instalación de cerco eléctrico">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/3.jpg')}}" class="img-responsive" alt="3">
-                        <!--
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Electricidad
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Cerco eléctrico
                                 </div>
                             </div>
                         </div>
-                        -->
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/4.jpg')}}" class="portfolio-box" data-lightbox="image-4" data-title="Your caption">
+                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/4.jpg')}}" class="portfolio-box" data-lightbox="image-4" data-title="Instalación de tablero eléctrico de automatización">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/4.jpg')}}" class="img-responsive" alt="4">
-                        <!--
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Electricidad
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Tablero eléctrico de automatización
                                 </div>
                             </div>
                         </div>
-                        -->
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/5.jpg')}}" class="portfolio-box" data-lightbox="image-5" data-title="Your caption">
+                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/5.jpg')}}" class="portfolio-box" data-lightbox="image-5" data-title="Escalera metálica">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/5.jpg')}}" class="img-responsive" alt="5">
-                        <!--
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Estructuras metálicas
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Escalera metálica
                                 </div>
                             </div>
                         </div>
-                        -->
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
-                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/6.jpg')}}" class="portfolio-box" data-lightbox="image-6" data-title="Your caption">
+                    <a href="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/6.jpg')}}" class="portfolio-box" data-lightbox="image-6" data-title="Instalación de cámaras de CCTV">
                         <img src="{{ asset ('plugins/bootstrap/template-assets/img/portfolio/6.jpg')}}" class="img-responsive" alt="6">
-                        <!--
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Seguridad
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Cámaras de CCTV
                                 </div>
                             </div>
                         </div>
-                        -->
                     </a>
                 </div>
             </div>
